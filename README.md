@@ -1,4 +1,5 @@
 # Toro Net
+![Milestones](images/milestones.png)
 ## Getting
 Fork the repo then clone it to your local machine.
 ```
